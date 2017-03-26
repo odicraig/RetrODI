@@ -23,3 +23,7 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+
+# too big for git
+/cores/mame_libretro.dll
+/cores/ume2014_libretro.dll
